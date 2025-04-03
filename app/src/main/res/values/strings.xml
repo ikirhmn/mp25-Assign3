@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_regis">Regis</string>
+    <string name="tab_login">Login</string>
+    <string name="register_text">Registrasi Dulu</string>
+    <string name="input_username">Username</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login_text">"Silahkan Login "</string>
+    <string name="login">Login</string>
+    <string name="hallo">Hallo</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username" />
+    <string name="label_login">Login</string>
+    <item name="btn_login" type="id" />
+</resources>
